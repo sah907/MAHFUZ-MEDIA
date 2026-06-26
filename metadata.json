@@ -1,0 +1,6 @@
+{
+  "name": "Mahfuz Studio",
+  "description": "Premium Video & Islamic Poster Maker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
